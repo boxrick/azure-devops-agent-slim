@@ -11,7 +11,7 @@ https://docs.microsoft.com/en-gb/azure/devops/pipelines/agents/docker?view=azure
 
 The main difference being the docs above doesn't appear to remove the agent correctly on shutdown, yet the old Microsoft images do but are obviously deprecated and massive.
 
-I did a little bit of combining of these to produce this.
+I did a little bit of combining of these to produce this repo.
 
 ## ENV vars
 * `VSTS_ACCOUNT=<azure_devops_account>`
