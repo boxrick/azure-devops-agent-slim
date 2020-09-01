@@ -14,9 +14,9 @@ The main difference being the docs above doesn't appear to remove the agent corr
 I did a little bit of combining of these to produce this.
 
 ## ENV vars
-VSTS_ACCOUNT=<azure_devops_account>
-VSTS_TOKEN=<PAT TOKEN>
-VSTS_POOL=<AGENT_GROUP_NAME>
+* `VSTS_ACCOUNT=<azure_devops_account>`
+* `VSTS_TOKEN=<PAT TOKEN>`
+* `VSTS_POOL=<AGENT_GROUP_NAME>`
 
 ## Running
 Install Docker, use run-agent.sh as an example to start
